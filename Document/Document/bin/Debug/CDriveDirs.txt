@@ -1,0 +1,20 @@
+$Recycle.Bin
+apps
+Config.Msi
+DELL
+Documents and Settings
+Drivers
+Intel
+Logs
+MSOCache
+PerfLogs
+Program Files
+Program Files (x86)
+ProgramData
+Recovery
+StarCraft
+System Recovery
+System Volume Information
+Temp
+Users
+Windows
